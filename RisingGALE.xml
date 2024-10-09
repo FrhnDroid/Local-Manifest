@@ -6,10 +6,10 @@
 <!-- Trees --> 
  <project path="device/xiaomi/gale" name="FrhnDroid/device_xiaomi_gale" remote="ghubb" revision="RisingGALE" clone-depth="1" />
  <project path="vendor/xiaomi/gale" name="xiaomi-mt6768-devs/vendor_xiaomi_gale" remote="ghubb" revision="lineage-21" clone-depth="1" />
- <project path="device/mediatek/sepolicy_vndr" name="LineageOS/android_device_mediatek_sepolicy_vndr" remote="ghubb" revision="lineage-21" clone-depth="1" />
+ <project path="device/mediatek/sepolicy_vndr" name="xiaomi-mt6768-devs/device_mediatek_sepolicy_vndr" remote="ghubb" revision="lineage-21" clone-depth="1" />
  <project path="kernel/xiaomi/gale" name="FrhnDroid/device_xiaomi_gale-kernel" remote="ghubb" revision="lineage-21" clone-depth="1" />
- <project path="hardware/xiaomi" name="LineageOS/android_hardware_xiaomi" remote="ghubb" revision="lineage-21" clone-depth="1" />
- <project path="hardware/mediatek" name="LineageOS/android_hardware_mediatek" remote="ghubb" revision="lineage-21" clone-depth="1" />
+ <project path="hardware/xiaomi" name="xiaomi-mt6768-devs/hardware_xiaomi" remote="ghubb" revision="lineage-21" clone-depth="1" />
+ <project path="hardware/mediatek" name="xiaomi-mt6768-devs/hardware_mediatek" remote="ghubb" revision="lineage-21" clone-depth="1" />
 
 <!-- frameworks_base -->
  <remove-project name="android_frameworks_base" />
